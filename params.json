@@ -1,0 +1,17 @@
+{
+    "audio_processing": {
+        "filetype": "wav",
+        "ab": "192000",
+        "acodec": "pcm_s16le",
+        "ac": "1",
+        "ar": "16000",
+        "loglevel": "quiet",
+        "verbose": "false"
+    },
+    "video_processing": {
+        "filetype": "mp4",
+        "loglevel": "quiet",
+        "verbose": "false"
+    },
+    "video_provider": "youtube"
+}
